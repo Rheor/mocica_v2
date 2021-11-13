@@ -44,14 +44,32 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "enum_to_string",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/enum_to_string-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
+      "name": "flag",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flag-5.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -76,6 +94,24 @@
     {
       "name": "path",
       "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -134,13 +170,19 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "mocica_v2",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-11-13T13:24:57.498529Z",
+  "generated": "2021-11-13T16:56:00.760587Z",
   "generator": "pub",
   "generatorVersion": "2.13.1"
 }
