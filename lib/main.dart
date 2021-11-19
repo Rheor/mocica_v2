@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import './mocicaAppBody.dart';
-import './mocicaAppBar.dart';
+import 'mocicaAppBody/mocicaAppBody.dart';
+import 'mocicaAppBar/mocicaAppBar.dart';
 
 void main() {
   runApp(MyApp());

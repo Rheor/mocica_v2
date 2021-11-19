@@ -74,6 +74,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_tags",
+      "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tags-0.4.9+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/saadawisam/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -182,7 +188,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-11-13T16:56:00.760587Z",
+  "generated": "2021-11-19T19:35:32.249137Z",
   "generator": "pub",
   "generatorVersion": "2.13.1"
 }
