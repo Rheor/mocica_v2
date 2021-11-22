@@ -5,15 +5,18 @@ class AssemblySearchDate extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return TextButton.icon(
-      label: Text('Dates de prochaines réunions'),
-      onPressed: () async {
-        await showDateRangePicker(
-            context: context,
-            firstDate: DateTime.now(),
-            lastDate: DateTime(2500));
-      },
-      icon: Icon(Icons.calendar_today),
+    return FittedBox(
+      fit: BoxFit.contain,
+      child: TextButton.icon(
+        label: Text('Dates de prochaines réunions'),
+        onPressed: () async {
+          await showDateRangePicker(
+              context: context,
+              firstDate: DateTime.now(),
+              lastDate: DateTime(2500));
+        },
+        icon: Icon(Icons.calendar_today),
+      ),
     );
   }
 }

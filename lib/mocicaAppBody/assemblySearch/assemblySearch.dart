@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'assemblySearchQuery.dart';
+import 'assemblySearchResult.dart';
 
 class AssemblySearch extends StatelessWidget {
   @override
@@ -15,9 +16,15 @@ class AssemblySearch extends StatelessWidget {
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
+        // mainAxisAlignment: MainAxisAlignment.spaceEvenly, // <= second choice
+        // mainAxisAlignment: MainAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.spaceAround, // <= gucchi
         // mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        // mainAxisAlignment: MainAxisAlignment.start, // <= third choice
+        // mainAxisAlignment: MainAxisAlignment.end,
         children: [
           AssemblySearchQuery(),
+          AssemblySearchResult(),
         ],
       ),
     );
